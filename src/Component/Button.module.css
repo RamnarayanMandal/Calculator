@@ -1,0 +1,17 @@
+.button{
+  width: 10vmin;
+  height: 10vmin;
+  color:rgb(0, 0, 0);
+  font-size: 3vmin;
+  font-weight: bold;
+  border-radius: 10px;
+  background: rgb(252, 252, 252);
+  border: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  outline: none;
+  box-shadow: 0 0 10px rgb(0, 0, 0);
+ 
+}

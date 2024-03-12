@@ -1,0 +1,11 @@
+.Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.SubContainer{
+    width: 50vmin;
+    height: 90vmin;
+    border-radius: 10px;
+    background: black;
+}
